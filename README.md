@@ -17,4 +17,6 @@ There were several versions of Satisfied written by others members of the public
 
 Acoustic Data
 
+I was able to access both the original scores and the instrumental versions of Hamilton on Spotify and Youtube, however they are also available on multiple other popular streaming platforms including Amazon Music and Apple Music. A plethora of covers can be found online as well - both vocal and instrumental. Frequent live performances of the production are also available to attend, with casts located in New York, North America, London, Australia and UK & Ireland (according to the Hamilton official website).
+
 Descriptive Data
