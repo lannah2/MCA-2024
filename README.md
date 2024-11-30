@@ -7,7 +7,11 @@ The theme I have chosen for this dataset is the musical 'Hamilton'. First perfor
 
 Task: Identify Challenges to Working with Music and Music-Related Data
 
-A common challenge when working with music-related data is copyright. Copyright protects creators from unmonitored distribution of their work. This can be a challenge for those working with music as it can be costly to obtain and access the required data. For example, although I was able to find multiple copies of the instrumental parts on websites such as SheetMusic-Free.com, it was quite difficult for me to find a copy of the Satisfied sheet music which included both the voice and instrumental components which was free of copyright. I eventually found the first page available on MuseScore and Music Notes, free of charge.
+A common challenge with accessing and curating music-related data is copyright. Copyright protects creators from unmonitored distribution of their work. This can be a challenge for those working with music as it can be costly to obtain and access the required data. For example, although I was able to find multiple copies of the instrumental parts on websites such as SheetMusic-Free.com, it was quite difficult for me to find a copy of the Satisfied sheet music which included both the vocal and instrumental components, and didn't fail to comply with the laws of copyright. I eventually found the first page available on MuseScore and Music Notes, free of charge. 
+
+Another challenge is the digital medium of most music-related data. In terms of accessibility and distribution, it can often be difficult to create a work in every format. which are not always accurately recognised and translated by computer programmes
+
+There are multiple factors to consider when creating a piece such as rhythm, tempo, key, timbre and volume. With such large-scale productions like Hamilton, it can be incredibly difficult to coordinate all of these elements with such a large amount of instruments and vocals.
 
 Task: Identify the Current Manifestations of Related Data
 
