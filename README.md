@@ -1,3 +1,4 @@
+![Satisfied Page 1](https://github.com/user-attachments/assets/761556bb-0153-45a2-8cfc-5ec3b22f5600)
 # DMIS Music Curation and Analytics Portfolio
 Week 1
   
