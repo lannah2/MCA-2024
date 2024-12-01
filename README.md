@@ -28,3 +28,12 @@ I was able to access both the original scores and the instrumental versions of H
 
 Descriptive Data
 
+The Hamilton official website does not contain any descriptive data about the songs, however Spotify contains the 
+- Song title (Satisfied)
+- Album title (Hamilton Original Broadway Cast Recording)
+- Artist (Renee Elise Goldsberry)
+- Composer (Lin-Manuel Miranda)
+- Producers (Alex Lacamoire, Bill Sherman, TarikTrotter)
+- Song duration (5 minutes, 29 seconds)
+- Release date (2015)
+- Record company (Atlantic Records)
