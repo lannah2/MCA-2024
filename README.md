@@ -5,7 +5,7 @@ Task: Identify a Dataset Theme
 
 The theme I have chosen for this dataset is the musical 'Hamilton'. First performed in 2015, Lin-Manual Miranda's biographical-style musical illustrates the life of American founding father, Alexander Hamilton through the use of musical genres such as rap and singing. This portfolio will focus primarily on the song 'Satisfied' - sung originally by Renée Elise Goldsberry, who plays Angelica Schuyler.
 
-![Satisfied Page 1](https://github.com/user-attachments/assets/53cc99f3-595a-4f70-abf7-37bb0fe7f529)
+![Satisfied Title](https://github.com/user-attachments/assets/97d2cf19-07a9-4801-89eb-3c13f9ea318c)
 
 Task: Identify Challenges to Working with Music and Music-Related Data
 
