@@ -1,6 +1,6 @@
 # DMIS Music Curation and Analytics Portfolio
 
-[Week 2](blankPage.html)
+[Week 2](week2.html)
 [Week 3](week3.html)
 
 # Week 1
