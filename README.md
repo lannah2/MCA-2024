@@ -28,7 +28,7 @@ I was able to access both the original scores and the instrumental versions of H
 
 Descriptive Data
 
-The Hamilton official website does not contain any descriptive data about the songs, however Spotify contains the 
+The Hamilton official website does not contain any descriptive data about the song, however Spotify contains the:
 - Song title (Satisfied)
 - Album title (Hamilton Original Broadway Cast Recording)
 - Artist (Renee Elise Goldsberry)
@@ -37,3 +37,5 @@ The Hamilton official website does not contain any descriptive data about the so
 - Song duration (5 minutes, 29 seconds)
 - Release date (2015)
 - Record company (Atlantic Records)
+
+This is the case for all the songs in the production, and this descriptive data can also be found on Apple Music and Youtube. there are also many websites in which people analsye the music and lyrics in immesne detail - OnStage Blog, for example. Youtube also contains video essays covering an analysis of the song.
