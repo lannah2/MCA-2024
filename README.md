@@ -38,4 +38,6 @@ The Hamilton official website does not contain any descriptive data about the so
 - Release date (2015)
 - Record company (Atlantic Records)
 
+![Hamilton Spotify Title](https://github.com/user-attachments/assets/b184b2b3-3233-4899-a126-1fc95204a99e)
+
 This is the case for all the songs in the production, and this descriptive data can also be found on Apple Music and Youtube. there are also many websites in which people analsye the music and lyrics in immesne detail - OnStage Blog, for example. Youtube also contains video essays covering an analysis of the song.
