@@ -1,5 +1,7 @@
 # DMIS Music Curation and Analytics Portfolio
 
+[Week 3](Week3.html)
+
 # Week 1
   
 ## Task: Identify a Dataset Theme
