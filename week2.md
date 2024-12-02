@@ -6,6 +6,8 @@ As mentioned previously, I have selected the song Satisfied from the musical Ham
 
 For comparison, the unedited version is available for download here: [Satisfied Unedited MuseScore File](SatisfiedUnedited.mscz)
 
+Here is the original PDF version: 
+
 ### PDF Image of the Transposed Version: 
 
 <img width="376" alt="2024-12-02 (2)" src="https://github.com/user-attachments/assets/398bb123-f43a-420b-8a46-056db37505ab">
