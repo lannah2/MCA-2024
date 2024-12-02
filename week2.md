@@ -12,7 +12,10 @@ For comparison, the unedited version is available for download here: [Satisfied 
 
 ## Task: Discuss the Aspects of your Score That Were not Transcribed Properly
 
-Didn’t get the time signature of cut time
+- MuseScore did not manage to transcribe the time signature of cut time (2/2) - in fact, no time signature was added.
+- The lyrics were not recognised either and therefore not included in the the transcription.
+- The prgramme failed almost entirely to comprehend the bass clef of the piano element, only capturing 7 notes - 3 of which were accurate.
+- The bar which contains the introduction of the lyrical component, was completely incorrect, however, the correct rhythm does return immediately after this.
 
 The bars are smaller and therefore there are more of them
 
@@ -20,4 +23,4 @@ Not all ties/slurs could be added accurately
 
 Completely wrong rhythms 
 
-Possibly due to the quality of the pdf
+These errors may be due to the quality of the pdf, or the integrity of the software in its understanding of musical notation.
