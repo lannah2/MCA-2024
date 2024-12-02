@@ -24,4 +24,7 @@ In both MusicXML and MEI, the staff element does not contain and child elements 
 
 ### The 'Pitch' Element
 - In MusicXML, the pitch is referred to as a number. For example, pitch=63.
-- However, in MEI, the element is referred to as 'pname' and is assigned a letter - for example, 'C'. this suggests that MEI is more comprehensible than MusicXML in terms of understanding notation.
+- However, in MEI, the element is referred to as 'pname' and is assigned a letter - for example, 'C'. This suggests that MEI is more comprehensible than MusicXML in terms of understanding notation in an academic environment. However, MusicXML is in a more standardised format, making it more accessible and transferrable.
+
+### Implications
+The differences between the two softwares means they are each likely to be utilised for different purposes. For example, MusicXML is more effective in accessing and exchanging the data universally, whereas MEI is perhaps more useful to scholars and researchers/archivists who intend to analyse and study the musical data.
