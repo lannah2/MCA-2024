@@ -2,9 +2,7 @@
 
 ## Task: Transcribe a Piece of Music from the Dataset you Selected Last Week to MuseScore
 
-### As mentioned previously, I have selected the song Satisfied from the musical Hamilton. The transposed version is available for download here: 
-
-[Satisfied MuseScore File](SatisfiedMuseScore.mscz)
+As mentioned previously, I have selected the song Satisfied from the musical Hamilton. The transposed version is available for download here: [Satisfied MuseScore File](SatisfiedMuseScore.mscz)
 
 ### An image of the transposed version can be found here: 
 
