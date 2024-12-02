@@ -1,8 +1,8 @@
 # DMIS Music Curation and Analytics Portfolio
 
 [Week 1](week1.md)
-[Week 2](week2.html)
-[Week 3](week3.html)
+[Week 2](week2.md)
+[Week 3](week3.md)
 
 # Week 1
   
