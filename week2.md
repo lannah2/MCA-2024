@@ -4,7 +4,7 @@
 
 As mentioned previously, I have selected the song Satisfied from the musical Hamilton. The transposed version is available for download here: [Satisfied MuseScore File](SatisfiedMuseScore.mscz)
 
-### An image of the transposed version can be found here: 
+### PDF Image of the Transposed Version: 
 
 <img width="376" alt="2024-12-02 (2)" src="https://github.com/user-attachments/assets/398bb123-f43a-420b-8a46-056db37505ab">
 
