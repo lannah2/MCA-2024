@@ -17,3 +17,7 @@ Both files contain the <staff> element which holds the information about the sta
 - In MEI, it also indicates on which staff, each element of notation resides - however it can also display where a note resides over multiple staves. For example, using the element <staff n="1">. 'N' refers to 'note' and '1' refers to the 'first staff'.
 
 In both MusicXML and MEI, the staff element does not contain and child elements and therefore, it cannot be classed as a parent.
+
+### The <note> Element
+- In MusicXML, the <note> tag is a parent element, and contains various child tags within it - which highlight the characteristics of a note. These characteristics include duration, ties, accidentals, pitch, articulations and type.
+- In MEI, again the data is slightly more advanced. it includes all of the above characteristics, however it also includes tags such as <tpc> (tonal pitch class) - and accidentals are defined as 'accids'.
