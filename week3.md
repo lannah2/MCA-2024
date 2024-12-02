@@ -21,3 +21,7 @@ In both MusicXML and MEI, the staff element does not contain and child elements 
 ### The 'Note' Element
 - In MusicXML, the note tag is a parent element, and contains various child tags within it - which highlight the characteristics of a note. These characteristics include duration, ties, accidentals, pitch, articulations and type.
 - In MEI, again the data is slightly more advanced. it includes all of the above characteristics, however it also includes tags such as 'tpc' (tonal pitch class) - and accidentals are defined as 'accids'.
+
+### The 'Pitch' Element
+- In MusicXML, the pitch is referred to as a number. For example, pitch=63.
+- However, in MEI, the element is referred to as 'pname' and is assigned a letter - for example, 'C'. this suggests that MEI is more comprehensible than MusicXML in terms of understanding notation.
