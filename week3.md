@@ -1,2 +1,4 @@
 # Week 3 
-Don't know what this is about yet.
+
+## Task: Export your score to MusicXML
+Here is the Satisfied MusicXML file: 
