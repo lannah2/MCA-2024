@@ -1,2 +1,3 @@
 # Week 7
-pending
+## Task: Create a Second Version of your MEI File with the Updated Metadata. Add a Genre Classification. Add Specific Licensing Data.
+Here is my updated MEI file containing the additional metadata: [Updated MEI File](SatisfiedTestXML7CC.mei)
