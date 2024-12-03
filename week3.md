@@ -2,7 +2,7 @@
 
 ## Task: Export your score to MusicXML and MEI. Then render your MEI file using Verovio in GitHub
 
-Here is the Satisfied MusicXML file: [Satisfied MusicXML File](SXML.txt)
+Here is the Satisfied MusicXML file: [Satisfied MusicXML File](Round2XML.musicxml)
 
 Here is the Satisfied MEI file: [Satisfied MEI File](SatisfiedTestXML.mei)
 
