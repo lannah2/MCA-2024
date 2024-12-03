@@ -11,7 +11,7 @@ Here is the Excel Spreadsheet available to download: [jSymbolic Feature Spreadsh
 
 ## Task: Use the Python Notebook on the Moodle to Generate a Piano Roll and Pitch Histogram of your Piece using Music21. 
 ### Here is a Piano Roll of Satisfied:
-
+![Piano Roll](https://github.com/user-attachments/assets/dec4757e-9c1e-4457-986a-c5b3602f30e3)
 
 ### Here is a Pitch Histogram of Satisfied:
 ![Pitch Histogram](https://github.com/user-attachments/assets/205680ad-f5e6-4136-b762-a70411448486)
