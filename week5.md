@@ -7,4 +7,4 @@
 - Lyricist (author of lyrics): Lin Manuel-Miranda
 
 ## Task 2: Modify your MEI Document According to the Schema that you have Created
-This is my MEI file with the updated Metadata: [Updated MEI File](SatisfiedTestXML5.mei)
+This is my MEI file with the updated Metadata: [Updated MEI File](SatisfiedTestXML5INFO.mei)
