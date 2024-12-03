@@ -7,4 +7,4 @@
 - Last Pitch: 63
 - Most Common Rhythmic Value: 0.5
 
-Here is the Excel Spreadsheet available to download:
+Here is the Excel Spreadsheet available to download: [jSymbolic Feature Spreadsheet](ACEXMLValues.csv)
