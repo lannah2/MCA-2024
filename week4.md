@@ -8,3 +8,7 @@
 - Most Common Rhythmic Value: 0.5
 
 Here is the Excel Spreadsheet available to download: [jSymbolic Feature Spreadsheet](ACEXMLValues.csv)
+
+## Task Use the Python Notebook on the Moodle to Generate a Piano Roll and Pitch Histogram of your Piece using Music21. 
+### Here is a Pitch Histogram of Satisfied:
+![Pitch Histogram](https://github.com/user-attachments/assets/205680ad-f5e6-4136-b762-a70411448486)
