@@ -5,3 +5,5 @@ Here is my updated MEI file containing the additional metadata: [Updated MEI Fil
 I chose the Attribution-NonCommercial-ShareAlike licence so that others have the freedom to share and collaborate on the project, however credit is still required. It is also a non-profit licence, meaning no money can be made from the project as it is intended for academic use within the university. 
 ## Task: Render your Revised MEI Metadata along with your Score on an HTML Page. 
 Here is the MEI file including its Metadata, on an html page: [Updated MEI HTML File](metaRAW.html)
+## Task: Discuss how you would Format the Metadata to make it look Nicer.
+The utilisation of lists, bullet points, and heading will make the data more organised and structured.
