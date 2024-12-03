@@ -6,4 +6,4 @@ I chose the Attribution-NonCommercial-ShareAlike licence so that others have the
 ## Task: Render your Revised MEI Metadata along with your Score on an HTML Page. 
 Here is the MEI file including its Metadata, on an html page: [Updated MEI HTML File](metaRAW.html)
 ## Task: Discuss how you would Format the Metadata to make it look Nicer.
-The utilisation of lists, bullet points, and heading will make the data more organised and structured.
+The utilisation of lists, headings and grouping the data into categories (for example, title, artist, and publisher could appear in succession) would make the metadata more organised and structured.
