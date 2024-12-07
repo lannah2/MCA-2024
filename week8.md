@@ -7,8 +7,10 @@
 https://www.youtube.com/watch?v=PkRy36v_kjA
 - A Cappella Cover of Satisfied by Emilie Jean Scheetz:
 https://www.youtube.com/watch?v=4VdpixlGBmM
+
 ## Task: Identify and List (in a table) the Most Important Technical and Non-Technical Metadata Associated with Each Track.
 ![Week 8 Table](https://github.com/user-attachments/assets/eb634550-f0ec-4765-b3f4-22b07b4fb438)
+
 ## Task: Export the Waveform and Spectrogram in an Image Format.
 ### Brittany J Smith Cover:
 #### Full Track Waveform
@@ -17,6 +19,7 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 ![Track 1 Detail Wave](https://github.com/user-attachments/assets/0b19ae74-3e8e-45db-b4de-b32b86cad00e)
 #### Spectogram
 ![Track 1 Spectogram](https://github.com/user-attachments/assets/9f80e1e6-545c-4c71-bcd4-57de043af65a)
+
 ### Anna Epps Cover:
 #### Full Track Waveform
 ![Track 2 Wave Form](https://github.com/user-attachments/assets/c0e8a15e-ba84-453a-8dc2-9d77dcb3b266)
@@ -24,6 +27,7 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 ![Track 2 Detail Wave](https://github.com/user-attachments/assets/4983022b-8732-4946-a482-f062ff2f4cd4)
 #### Spectogram
 ![Track 2 Spectogram](https://github.com/user-attachments/assets/20904195-891e-44d9-9359-30a4926a32f6)
+
 ### Emilie Jean Scheetz Cover:
 #### Full Track Waveform
 ![Track 3 Wave Form](https://github.com/user-attachments/assets/197f97ed-30ea-4772-abcd-3254dea1aefa)
@@ -31,3 +35,5 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 ![Track 3 Detail Wave](https://github.com/user-attachments/assets/dff9e140-5018-4947-870c-34a90164a1c8)
 #### Spectogram
 ![Track 3 Spectogram](https://github.com/user-attachments/assets/64f74bd7-c4bc-4730-a12d-205e925cc4cf)
+
+## Task: Describe at Least One Advantage of a Time-Frequency Analysis over a Waveform-Based Analysis. Provide at Least One Example of the Identified Advantage by Referencing a Specific Subpart of the Output from Step 1.
