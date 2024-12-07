@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 ### Brittany J Smith Cover:
 #### Waveform
 ![Track 1 Wave Form](https://github.com/user-attachments/assets/bdb2fe8b-3793-4c0b-991a-06e587ca2d36)
+#### Detailed Waveform Section
