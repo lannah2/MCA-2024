@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 ![Track 1 Wave Form](https://github.com/user-attachments/assets/bdb2fe8b-3793-4c0b-991a-06e587ca2d36)
 #### Detailed Section of Waveform
 ![Track 1 Detail Wave](https://github.com/user-attachments/assets/0b19ae74-3e8e-45db-b4de-b32b86cad00e)
+#### Spectogram
+![Track 1 Spectogram](https://github.com/user-attachments/assets/132e99e5-6b3f-426a-86a1-bb057c51d3e9)
