@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=4VdpixlGBmM
 #### Full Track Waveform
 ![Track 2 Wave Form](https://github.com/user-attachments/assets/c0e8a15e-ba84-453a-8dc2-9d77dcb3b266)
 #### Detailed Section of Waveform
-![Track 2 Detail Wave](https://github.com/user-attachments/assets/4b8a4646-de43-4118-8349-c760f08a42da)
+![Track 2 Detail Wave](https://github.com/user-attachments/assets/4983022b-8732-4946-a482-f062ff2f4cd4)
 #### Spectogram
 ![Track 2 Spectogram](https://github.com/user-attachments/assets/20904195-891e-44d9-9359-30a4926a32f6)
 ### Emilie Jean Scheetz Cover:
