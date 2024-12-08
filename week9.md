@@ -33,3 +33,10 @@
 3. MFCC
 
 <img width="259" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/8f48d82c-f2bf-4f63-8873-9dd06c1b2dce"> <img width="265" alt="T1 Chromagram Picture" src="https://github.com/user-attachments/assets/376bbae0-699a-408f-a14d-aead57258bb2"> <img width="262" alt="T1 MFCC Picture" src="https://github.com/user-attachments/assets/e5aa92fc-63d1-41c4-8c44-15ea364da35a">
+
+### Anna Epps Cover:
+1. Spectagram
+2. Chromagram
+3. MFCC
+
+<img width="324" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/166e7244-f9e3-4aeb-9066-27d68256c958"> <img width="324" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/5e13c129-884a-4d8d-a769-ba0fb1959fd8"> <img width="325" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/75b26fdd-6a23-4bc8-a327-e92892b6a2c3">
