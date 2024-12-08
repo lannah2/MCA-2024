@@ -1,5 +1,6 @@
 # Week 9
 ## Task: Add 3 Panes to the Three Music Tracks Relating to your Portfolio Theme - a Spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram.
+
 ### Brittany J Smith Cover:
 1. Waveform
 2. Spectogram
@@ -23,3 +24,10 @@
 4. Chromagram
 
 <img width="960" alt="W9 T3 All Panes" src="https://github.com/user-attachments/assets/45e6ba4e-0797-4c63-8273-e9b377e0f4ec">
+
+## Task: Compute and Visualize the Histogram of the Features for the Three Tracks.
+
+### Brittany J Smith Cover:
+#### Spectogram
+
+<img width="257" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/8411c158-af99-46bd-a150-42cde6201fb6">
