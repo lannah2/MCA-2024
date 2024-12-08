@@ -32,18 +32,18 @@
 2. Chromagram
 3. MFCC
 
-<img width="259" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/8f48d82c-f2bf-4f63-8873-9dd06c1b2dce"> <img width="265" alt="T1 Chromagram Picture" src="https://github.com/user-attachments/assets/376bbae0-699a-408f-a14d-aead57258bb2"> <img width="262" alt="T1 MFCC Picture" src="https://github.com/user-attachments/assets/e5aa92fc-63d1-41c4-8c44-15ea364da35a">
+<img width="266" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/b79da043-d00c-40f1-8e51-175d33da5007"> <img width="253" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/0726c334-4e83-46b7-81dd-73f17b2f7eb3"> <img width="259" alt="T1 MFCC Picture" src="https://github.com/user-attachments/assets/28494eb5-f846-43a2-8bc0-4556a93b4d5f">
 
 ### Anna Epps Cover:
 1. Spectagram
 2. Chromagram
 3. MFCC
 
-<img width="324" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/166e7244-f9e3-4aeb-9066-27d68256c958"> <img width="324" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/5e13c129-884a-4d8d-a769-ba0fb1959fd8"> <img width="301" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/5aaf1a56-ec42-43a6-81b7-0f2b7a7844bb">
+<img width="257" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/b733dfaa-277f-4b8d-99d9-5f50f8388642"> <img width="253" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/35106f2f-2e0d-47c2-a57d-bdc247c853d0"> <img width="262" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/d3ee63bf-abf3-4b14-8f3c-c70153ae5dfb">
 
 ### Emilie Jean Scheetz Cover:
 1. Waveform
 2. Spectogram
 3. MFCC
 
-<img width="260" alt="T3 Spectogram Picture" src="https://github.com/user-attachments/assets/d80b878e-9ed0-4074-9629-6837f2d09e93"> <img width="268" alt="T3 Chromagram Picture" src="https://github.com/user-attachments/assets/7b5db844-3a81-46f1-a01a-78ea3a1bd8bc"> <img width="266" alt="T3 MFCC Picture" src="https://github.com/user-attachments/assets/5cba574a-4647-4b94-a168-f3c497519fd7">
+<img width="256" alt="T3 Spectogram Picture" src="https://github.com/user-attachments/assets/b724d53c-c4c0-44ad-8d4c-74c218f7ae89"> <img width="257" alt="T3 Chromagram Picture" src="https://github.com/user-attachments/assets/2ed62f24-75a5-450a-995b-6379deb24279"> <img width="255" alt="T3 MFCC Picture" src="https://github.com/user-attachments/assets/22741b12-19a0-49c7-a89b-35255c78d120">
