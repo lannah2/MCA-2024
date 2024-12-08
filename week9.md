@@ -39,4 +39,4 @@
 2. Chromagram
 3. MFCC
 
-<img width="324" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/166e7244-f9e3-4aeb-9066-27d68256c958"> <img width="324" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/5e13c129-884a-4d8d-a769-ba0fb1959fd8"> <img width="325" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/75b26fdd-6a23-4bc8-a327-e92892b6a2c3">
+<img width="324" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/166e7244-f9e3-4aeb-9066-27d68256c958"> <img width="324" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/5e13c129-884a-4d8d-a769-ba0fb1959fd8"> <img width="301" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/5aaf1a56-ec42-43a6-81b7-0f2b7a7844bb">
