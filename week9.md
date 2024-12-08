@@ -28,5 +28,8 @@
 ## Task: Compute and Visualize the Histogram of the Features for the Three Tracks.
 
 ### Brittany J Smith Cover:
+1. Spectagram
+2. Chromagram
+3. MFCC
 
-Spectagram <img width="272" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/1a82b5bf-62da-4f0f-883a-f2f48905234c"> Chromagram <img width="265" alt="T1 Chromagram Picture" src="https://github.com/user-attachments/assets/376bbae0-699a-408f-a14d-aead57258bb2"> MFCC <img width="262" alt="T1 MFCC Picture" src="https://github.com/user-attachments/assets/e5aa92fc-63d1-41c4-8c44-15ea364da35a">
+<img width="272" alt="T1 Spectogram Picture" src="https://github.com/user-attachments/assets/1a82b5bf-62da-4f0f-883a-f2f48905234c"> <img width="265" alt="T1 Chromagram Picture" src="https://github.com/user-attachments/assets/376bbae0-699a-408f-a14d-aead57258bb2"> <img width="262" alt="T1 MFCC Picture" src="https://github.com/user-attachments/assets/e5aa92fc-63d1-41c4-8c44-15ea364da35a">
