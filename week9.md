@@ -40,3 +40,10 @@
 3. MFCC
 
 <img width="324" alt="T2 Spectogram Picture" src="https://github.com/user-attachments/assets/166e7244-f9e3-4aeb-9066-27d68256c958"> <img width="324" alt="T2 Chromagram Picture" src="https://github.com/user-attachments/assets/5e13c129-884a-4d8d-a769-ba0fb1959fd8"> <img width="301" alt="T2 MFCC Picture" src="https://github.com/user-attachments/assets/5aaf1a56-ec42-43a6-81b7-0f2b7a7844bb">
+
+### Emilie Jean Scheetz Cover:
+1. Waveform
+2. Spectogram
+3. MFCC
+
+<img width="260" alt="T3 Spectogram Picture" src="https://github.com/user-attachments/assets/d80b878e-9ed0-4074-9629-6837f2d09e93"> <img width="268" alt="T3 Chromagram Picture" src="https://github.com/user-attachments/assets/7b5db844-3a81-46f1-a01a-78ea3a1bd8bc"> <img width="266" alt="T3 MFCC Picture" src="https://github.com/user-attachments/assets/5cba574a-4647-4b94-a168-f3c497519fd7">
