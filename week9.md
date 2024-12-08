@@ -14,3 +14,9 @@
 3. Mel Frequency Cepstral Coefficients
 4. Chromagram
 <img width="960" alt="W9 T2 All Panes" src="https://github.com/user-attachments/assets/6eee0cb0-95d0-4f7d-825e-672145f9eba9">
+
+### Emilie Jean Schneetz Cover:
+1. Waveform
+2. Spectogram
+3. Mel Frequency Cepstral Coefficients
+4. Chromagram
