@@ -12,7 +12,10 @@
 # Week 10
 ## Task: Open your Piece of Music from Week 2 in MuseScore. Export it as a WAV File and as an Image File, and open the WAV File in SonicVisualizer. Perform a Polyphonic Transcription on the File. Open the MIDI file in MuseScore and Export it as an image. In your Portfolio, Display both Images.
 
-1. Original Piece
-2. Transcribed Piece
+1. Original Piece:
 
 ![Satisfied MuseScore PIC](https://github.com/user-attachments/assets/8b8b585a-069c-45f7-9aa6-7893a60f88c5) ![Week10 MIDI PIC](https://github.com/user-attachments/assets/b3b7140e-56bb-427b-857f-153c4b44a830)
+
+2. Transcribed Piece:
+
+![Week10 MIDI PIC](https://github.com/user-attachments/assets/5ea78459-f5ab-40e7-8655-cae6ec9fdd0d)
