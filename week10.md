@@ -14,7 +14,7 @@
 
 1. Original Piece:
 
-![Satisfied MuseScore PIC](https://github.com/user-attachments/assets/8b8b585a-069c-45f7-9aa6-7893a60f88c5) ![Week10 MIDI PIC](https://github.com/user-attachments/assets/b3b7140e-56bb-427b-857f-153c4b44a830)
+![Satisfied MuseScore PIC](https://github.com/user-attachments/assets/8b8b585a-069c-45f7-9aa6-7893a60f88c5) 
 
 2. Transcribed Piece:
 
