@@ -10,9 +10,6 @@
 [Week 10](week10.md)
 
 # Week 10
-## Task: Generate a Similarity Matrix
-<img width="391" alt="Satisfied Similarity Matrix" src="https://github.com/user-attachments/assets/62ef19d1-ecdd-462b-bd3d-b70598e30325">
-
 ## Task: Open your Piece of Music from Week 2 in MuseScore. Export it as a WAV File and as an Image File, and open the WAV File in SonicVisualizer. Perform a Polyphonic Transcription on the File. Open the MIDI file in MuseScore and Export it as an image. In your Portfolio, Display both Images.
 
 ### 1. Original Piece:
