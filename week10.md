@@ -18,3 +18,7 @@
 
 ### 2. Transcribed Piece:
 ![Week10 MIDI PIC](https://github.com/user-attachments/assets/5ea78459-f5ab-40e7-8655-cae6ec9fdd0d)
+
+## Task: Compare the Transcription with the Original, Reflecting on its Accuracy and Identifying any Information that has been Lost.
+
+Upon first look at the two scores, the first notable dissimilarity, is the difference in the two time signatures. The original piece is in cut time, whilst the transcribed version is in common time. Secondly, the duration of the notes and rests are very different, and every chord in the base line appears to be different – this is due to the fact that the majority of the melody has been transcribed in the bass clef. Because of this line 4 displays the most visual difference between the notes, however surprisingly, is doesn’t sound as different from the original as I had imagined. The pitch is higher, as if the piece had been transposed, but the overall tune and essence of the piece is quite similar – making it recognisable as a ‘version’ of the original song.
