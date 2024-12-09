@@ -1,4 +1,3 @@
-# DMIS Music Curation and Analytics Portfolio
 [Home](README.md)
 [Week 1](week1.md)
 [Week 2](week2.md)
@@ -10,9 +9,11 @@
 [Week 9](week9.md)
 [Week 10](week10.md)
 
+# DMIS Music Curation and Analytics Portfolio
 ## Course Information:
 - Course Title: Music Curation and Analytics (2024-25)
 - Student ID: 2800636
 - Assessment Type: Lab Portfolio
-
-### Each Week can be Accessed via the Links at the Top of each Page!
+- Lecturer: Tim Duguid
+- Date: 10th December 2024
+Each Week can be Accessed via the Links at the Top of each Page!
