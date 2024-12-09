@@ -15,7 +15,7 @@ To generate a similarity matrix, I have used the same three pieces from last wee
 
 <img width="260" alt="Week 10 MatrixReal" src="https://github.com/user-attachments/assets/776eea78-c3ef-4409-84b6-6ad79afedce1">
 
-<img width="404" alt="Week 10 MatrixReal2" src="https://github.com/user-attachments/assets/cf17d4e3-51dc-4783-a739-8e6ed1847028">
+<img width="208" alt="Week 10 MatrixReal2" src="https://github.com/user-attachments/assets/f72b8dd2-4890-4da6-a307-c7dae96faca2">
 
 <img width="395" alt="Week 10 Genre" src="https://github.com/user-attachments/assets/0a8edc1b-0a68-44f2-aa3e-a90449edcc16"> 
 
