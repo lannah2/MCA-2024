@@ -12,7 +12,8 @@
 # Week 10
 ## Task: Generate a similarity matrix
 To generate a similarity matrix, I have used the same three pieces from last week's task as I found that they were the most relevant to my theme:
-<img width="395" alt="Week 10 MatrixReal" src="https://github.com/user-attachments/assets/a19e39ce-d40b-4a88-a7ab-630d831b59c1"> 
+
+<img width="260" alt="Week 10 MatrixReal" src="https://github.com/user-attachments/assets/776eea78-c3ef-4409-84b6-6ad79afedce1">
 
 <img width="404" alt="Week 10 MatrixReal2" src="https://github.com/user-attachments/assets/cf17d4e3-51dc-4783-a739-8e6ed1847028">
 
